@@ -1,6 +1,4 @@
-# Assignment 2: 2D Editor
-
-Name: Wenkang Su
+# 2D Editor
 
 ## Compilation instructions
 In the terminal, after make in the build directory
